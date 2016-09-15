@@ -1,0 +1,30 @@
+.status-1{
+	background-color: rgb(211, 176, 178);
+}
+.status-2{
+	background-color: rgb(222, 196, 122);
+}
+.status-3{
+	background-color: rgb(218, 215, 97);
+}
+.status-4{
+	background-color: rgb(195, 211, 176);
+}
+.status-5{
+	background-color: rgb(231, 228, 228);
+}
+#walk-table-holder{
+	height: 300px;
+	overflow: auto;
+}
+.control-legend{
+    margin-bottom: 0;
+    text-align: right;
+    margin-top: 6px;
+    font-weight: 700;
+    font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #333;
+
+}
